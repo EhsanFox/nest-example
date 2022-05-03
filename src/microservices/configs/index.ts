@@ -1,1 +1,1 @@
-export { createUserGRPCOptions } from "./createUser.config"
+export { createUserGRPCOptions } from "./createUser.config";

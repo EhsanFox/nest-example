@@ -1,1 +1,1 @@
-export { ICreateUser } from "./createUser.interface"
+export { ICreateUser } from "./createUser.interface";
